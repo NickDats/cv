@@ -1,2 +1,2 @@
 # cv
-Сайт-визитка на HTML+CSS+JS
+Business card site HTML+CSS+JS
